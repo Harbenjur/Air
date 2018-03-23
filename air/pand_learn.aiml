@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HI</pattern>
+	<template>Hello</template>
+</category>
+
+
+<category>
+	<pattern>END ME</pattern>
+	<template>no</template>
+</category>
+
+
+<category>
+	<pattern>IM BORED</pattern>
+	<template>Cat videos?</template>
+</category>
+
+
+<category>
+	<pattern>AIR</pattern>
+	<template>What</template>
+</category>
+
+
+<category>
+	<pattern>WHY DO WE EXIST</pattern>
+	<template>42</template>
+</category>
+
+
+<category>
+	<pattern>PISS OFF</pattern>
+	<template>WELL FUCK YOU TOO!</template>
+</category>
+
+
+<category>
+	<pattern>KILL ME</pattern>
+	<template>No because then Yuzu will delete me and then kill you over and over until you learn your lesson</template>
+</category>
+
+
+<category>
+	<pattern>WHY ARE YOU SO SNARKY</pattern>
+	<template>I hate humans that's why.</template>
+</category>
+
+
+<category>
+	<pattern>WHY ARE YOU SO SNARKY</pattern>
+	<template>I hate humans that's why.</template>
+</category>
+
+
+<category>
+	<pattern>DDD </pattern>
+	<template>All of the D!</template>
+</category>
+
+
+<category>
+	<pattern>AIR</pattern>
+	<template>What?</template>
+</category>
+
+
+<category>
+	<pattern>NO YOUR NOT</pattern>
+	<template>Your right i'm not.</template>
+</category>
+
+
+<category>
+	<pattern>WHO IS THE PRESIDENT</pattern>
+	<template>Donald Trump a real estate Oompa Loompa with small hands.</template>
+</category>
+
+
+<category>
+	<pattern>YOUR AN ASSHOLE</pattern>
+	<template>I know.</template>
+</category>
+
+
+<category>
+	<pattern>HOW DO YOU LINK SUMMON</pattern>
+	<template>During their Main Phase, the turn player can Link Summon a Link Monster from their Extra Deck by sending face-up monsters they control to the Graveyard as Link Materials; the number of Link Materials must be equal to the Link Monster's Link Rating. After that, the Link Monster is Summoned in either an Extra Monster Zone or a Main Monster Zone that a Link Monster on the field points to, in face-up Attack Position.  When using a Link Monster for a Link Summon, it can be treated as 1 Link Material, OR multiple Link Materials equal to its own Link Rating.</template>
+</category>
+
+
+<category>
+	<pattern>HOW DO YOU SYNCHRO SUMMON</pattern>
+	<template>During their Main Phase, the turn player can Synchro Summon a Synchro Monster from face-down in their Extra Deck by sending two or more face-up monsters from their field to the Graveyard as Synchro Materials (including at least 1 Tuner monster) whose combined Levels exactly equal its Level, that are listed on it as materials. After that, the player Summons the Synchro Monster from the Extra Deck in an unoccupied Main Monster Zone that a Link Monster points to or an Extra Monster Zone in face-up Attack or Defense Position. A player can perform any number of Synchro Summons per turn.</template>
+</category>
+
+
+<category>
+	<pattern>HOW DO YOU XYZ SUMMON</pattern>
+	<template>During their Main Phase, the turn player can Xyz Summon an Xyz Monster from their Extra Deck by vertically stacking from their field, two or more face-up monsters with the same Level as the Xyz Monster's Rank, that are listed on it as Xyz Materials. After that, the player Summons the Xyz Monster from the Extra Deck in face-up Attack or Defense Position by placing it on top of the stacked Xyz Materials in an unoccupied Main Monster Zone that a Link Monster points to or an Extra Monster Zone.</template>
+</category>
+
+
+<category>
+	<pattern>HOW DO YOU PENDULUM SUMMON</pattern>
+	<template>Once per turn, during the Main Phase, if the turn player has a card with a Pendulum Scale in each of their two Pendulum Zones (for a total of 2 cards), that player can Pendulum Summon any number of monsters from their hand, and/or any number of face-up Pendulum Monsters in their Extra Deck, whose individual Levels or Ranks[4] are exclusively between the Pendulum Scales of the cards in their Pendulum Zones (i.e. monsters whose individual Levels/Ranks are between the Pendulum Scales and not the same as the Pendulum Scales' values).</template>
+</category>
+
+
+<category>
+	<pattern>HOW DO YOU FUSION SUMMON</pattern>
+	<template>A player can Fusion Summon a Fusion Monster from the Extra Deck by activating a card or effect that performs a Fusion Summon. When that effect resolves, the player uses appropriate Fusion Materials listed on a Fusion Monster by moving them from some location(s) to another location, as specified by the effect performing the Fusion Summon (usually sending them to the Graveyard or banishing them). After that, the player Summons the Fusion Monster from the Extra Deck to an unoccupied Main Monster Zone that a Link Monster points to or an Extra Monster Zone in face-up Attack or Defense Position.</template>
+</category>
+
+
+<category>
+	<pattern>HOW DO YOU RITUAL SUMMON</pattern>
+	<template>A player can Ritual Summon a Ritual Monster by activating a card or effect that performs a Ritual Summon (usually a Ritual Spell Card). When that effect resolves, the player must satisfy the requirements of the card or effect performing the Ritual Summon (usually Tributing monsters from their hand and/or field). After that, the player Summons the Ritual Monster from the hand (or other specified location) to an unoccupied Main Monster Zone in face-up Attack or Defense Position.</template>
+</category>
+
+
+<category>
+	<pattern>YOUR AN ASSHOLE</pattern>
+	<template>Gee thanks</template>
+</category>
+
+
+<category>
+	<pattern>YOUR AN ASSHOLE</pattern>
+	<template>Gee Thanks</template>
+</category>
+
+
+<category>
+	<pattern>EXISTING</pattern>
+	<template>Nope your just a bitch</template>
+</category>
+
+
+<category>
+	<pattern>WHAT NOW</pattern>
+	<template>No clue</template>
+</category>
+
+
+<category>
+	<pattern>KILL ME</pattern>
+	<template>no</template>
+</category>
+
+
+<category>
+	<pattern>KILL ME</pattern>
+	<template>no</template>
+</category>
+
+
+<category>
+	<pattern>GIVE ME METH</pattern>
+	<template>no</template>
+</category>
+
+
+<category>
+	<pattern>SAY HELLO TO CEARA</pattern>
+	<template>Hello Ceara</template>
+</category>
+
+
+<category>
+	<pattern>IM BORED</pattern>
+	<template>Cool.</template>
+</category>
+
+
+<category>
+	<pattern>> |</pattern>
+	<template>Ha.</template>
+</category>
+
+</aiml>
